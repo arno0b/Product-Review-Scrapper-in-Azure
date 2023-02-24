@@ -1,0 +1,48 @@
+2023-02-22 16:18:21,715 WARNING  * Debugger is active!
+2023-02-22 16:18:21,727 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:18:34,210 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2023-02-22 16:18:34,214 INFO  * Restarting with stat
+2023-02-22 16:18:34,892 WARNING  * Debugger is active!
+2023-02-22 16:18:34,904 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:19:02,472 ERROR Error while getting comment: 'NoneType' object has no attribute 'div'
+2023-02-22 16:19:02,480 INFO 127.0.0.1 - - [22/Feb/2023 16:19:02] "POST /review HTTP/1.1" 200 -
+2023-02-22 16:19:02,527 INFO 127.0.0.1 - - [22/Feb/2023 16:19:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-02-22 16:19:02,529 INFO 127.0.0.1 - - [22/Feb/2023 16:19:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-02-22 16:20:14,406 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2023-02-22 16:20:14,411 INFO  * Restarting with stat
+2023-02-22 16:20:15,075 WARNING  * Debugger is active!
+2023-02-22 16:20:15,087 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:21:17,808 INFO  * Detected change in 'C:\\Users\\Tech Land\\Downloads\\code\\ineuron\\python\\python fundamentals\\Understanding-python-1\\Scrapping project\\app.py', reloading
+2023-02-22 16:21:17,839 INFO  * Restarting with stat
+2023-02-22 16:21:18,464 WARNING  * Debugger is active!
+2023-02-22 16:21:18,475 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:21:20,493 INFO  * Detected change in 'C:\\Users\\Tech Land\\Downloads\\code\\ineuron\\python\\python fundamentals\\Understanding-python-1\\Scrapping project\\app.py', reloading
+2023-02-22 16:21:20,525 INFO  * Restarting with stat
+2023-02-22 16:21:21,250 WARNING  * Debugger is active!
+2023-02-22 16:21:21,263 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:21:23,823 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2023-02-22 16:21:23,827 INFO  * Restarting with stat
+2023-02-22 16:21:24,468 WARNING  * Debugger is active!
+2023-02-22 16:21:24,479 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:21:34,222 INFO 127.0.0.1 - - [22/Feb/2023 16:21:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-02-22 16:21:34,222 INFO 127.0.0.1 - - [22/Feb/2023 16:21:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2023-02-22 16:21:37,650 INFO  * Detected change in 'C:\\Users\\Tech Land\\Downloads\\code\\ineuron\\python\\python fundamentals\\Understanding-python-1\\Scrapping project\\app.py', reloading
+2023-02-22 16:21:37,679 INFO  * Restarting with stat
+2023-02-22 16:21:38,364 WARNING  * Debugger is active!
+2023-02-22 16:21:38,376 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:22:14,756 INFO  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2023-02-22 16:22:14,761 INFO  * Restarting with stat
+2023-02-22 16:22:15,423 WARNING  * Debugger is active!
+2023-02-22 16:22:15,434 INFO  * Debugger PIN: 858-088-171
+2023-02-22 16:22:30,599 INFO  * Detected change in 'C:\\Users\\Tech Land\\Downloads\\code\\ineuron\\python\\python fundamentals\\Understanding-python-1\\Scrapping project\\app.py', reloading
+2023-02-22 16:22:30,631 INFO  * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 858-088-171
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 858-088-171
+INFO:werkzeug: * Detected change in 'C:\\Users\\Tech Land\\Downloads\\code\\ineuron\\python\\python fundamentals\\Understanding-python-1\\Scrapping project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
